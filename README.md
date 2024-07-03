@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heo 👋
 
 <a href="https://app.daily.dev/chetuu"><img src="https://api.daily.dev/devcards/v2/9NRpYc0peqaMgCYuYqnyd.png?type=default&r=gw5" width="356" alt="Jose's Dev Card"/></a>
 

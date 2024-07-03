@@ -1,5 +1,8 @@
 <h1 align="center">Heo 👋</h1>
-<a align="center" href="https://app.daily.dev/chetuu"><img src="https://api.daily.dev/devcards/v2/9NRpYc0peqaMgCYuYqnyd.png?type=default&r=gw5" width="356" alt="Jose's Dev Card"/></a>
+<p align="center">
+  <a align="center" href="https://app.daily.dev/chetuu"><img src="https://api.daily.dev/devcards/v2/9NRpYc0peqaMgCYuYqnyd.png?type=default&r=gw5" width="356" alt="Jose's Dev Card"/></a>
+</p>
+
 
 <!--
 **josesanchis16/josesanchis16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

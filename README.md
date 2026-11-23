@@ -24,7 +24,7 @@ How to work with me, written like a README.
 
 ### Works well with
 
-- Small teams with shared ownership
+- Teams with shared ownership
 - Tickets that explain the why and not only the what
 
 ### Known to degrade under

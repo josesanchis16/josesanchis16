@@ -5,7 +5,7 @@ Full-stack developer in Valencia, Spain, moving my focus to frontend and UX.
 
 [Leer en español](README.es.md)
 
-![Thryss screenshots](docs/thryss.png)
+![Thryss screenshots](thryss.png)
 
 ## Thryss
 

@@ -5,8 +5,6 @@ Full-stack developer in Valencia, Spain, moving my focus to frontend and UX.
 
 [Leer en español](README.es.md)
 
-![Thryss screenshots](thryss.png)
-
 ## Thryss
 
 A mobile app for lists, checklists and polls that I designed, built and released on my own.
@@ -15,7 +13,7 @@ The idea behind it is that people should be able to join without installing anyt
 
 I sketched every screen before writing code, then built the Expo app, the Laravel API and the deployment pipeline myself.
 
-[Google Play](https://play.google.com/store/apps/details?id=es.thryss.app) · [App Store](LINK) · [thryss.es](https://thryss.es)
+[Google Play](https://play.google.com/store/apps/details?id=es.thryss.app) · [App Store](https://apps.apple.com/us/app/thryss/id6815389046) · [Thryss](https://thryss.es)
 
 ## At work
 

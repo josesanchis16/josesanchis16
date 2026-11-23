@@ -5,7 +5,7 @@ Desarrollador full-stack en Valencia, centrando mi trabajo en frontend y UX.
 
 [Read in English](README.md)
 
-![Capturas de Thryss](docs/thryss.png)
+![Capturas de Thryss](thryss.png)
 
 ## Thryss
 

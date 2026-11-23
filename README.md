@@ -1,20 +1,45 @@
-<h1 align="center">Heo 👋, I'm Jose Sanchis</h1>
-<p align="center">
-  <a align="center" href="https://app.daily.dev/chetuu"><img src="https://api.daily.dev/devcards/v2/9NRpYc0peqaMgCYuYqnyd.png?type=default&r=gw5" width="356" alt="Jose's Dev Card"/></a>
-</p>
+# Hi, I'm Jose Sanchis
 
+Full-stack developer in Valencia, Spain. React, React Native and Laravel.
+Currently moving my focus to frontend and user experience.
 
-<!--
-**josesanchis16/josesanchis16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Leer en español](README.es.md)
 
-Here are some ideas to get you started:
+## TL;DR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 7 years building web and mobile products, mostly for healthcare clients
+- Team lead for up to 4 developers at a small company, and the person who owns production deployments
+- Built and published Thryss, a mobile app, on my own [Thryss](https://thryss.es)
+- Strongest in React, React Native and TypeScript, with Laravel on the backend
+- Looking for a frontend or UX focused role, remote or hybrid
+
+## Installation
+
+How to work with me, written like a README.
+
+### Requirements
+
+- Direct feedback. I would rather hear "this does not work" on day one than find out in production.
+- Written context. Clear issues and short docs make me faster than any meeting.
+
+### Works well with
+
+- Small teams with shared ownership
+- Tickets that explain the why and not only the what
+
+### Known to degrade under
+
+- Meetings without an agenda
+- Branches that live for three weeks
+
+## Usage
+
+What I build with, and where I am comfortable.
+
+| Area | Tools |
+| --- | --- |
+| Frontend | React, React Native, Expo, TypeScript |
+| Backend | Laravel, PHP, MySQL, Redis, REST APIs |
+| Ops | Docker, GitHub Actions, CI/CD, Azure Storage |
+
+I design the screens and flows before I build them, and I am happy to go all the way to the API and the store release when a project needs it.

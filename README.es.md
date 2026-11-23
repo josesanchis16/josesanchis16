@@ -1,45 +1,34 @@
-# Hola, soy Jose Sanchis
+# Jose Sanchis
 
-Desarrollador full-stack en Valencia. React, React Native y Laravel.
-Ahora mismo estoy centrando mi trabajo en frontend y experiencia de usuario.
+Desarrollador full-stack en Valencia, centrando mi trabajo en frontend y UX.
+7 años construyendo productos web y móvil con React, React Native y Laravel, sobre todo en el sector sanitario.
 
 [Read in English](README.md)
 
-## Resumen rápido
+![Capturas de Thryss](docs/thryss.png)
 
-- 7 años construyendo productos web y móvil, sobre todo para clientes del sector sanitario
-- Líder de un equipo de hasta 4 desarrolladores en una empresa pequeña, y quien se encarga de los despliegues a producción
-- He construido y publicado Thryss, una app móvil, por mi cuenta
-- Mi punto fuerte es React, React Native y TypeScript, con Laravel en el backend
-- Busco un puesto centrado en frontend o UX, en remoto o híbrido
+## Thryss
 
-## Instalación
+Una app móvil de listas, checklists y encuestas que he diseñado, construido y publicado por mi cuenta.
 
-Cómo trabajar conmigo, explicado como un README.
+La idea es que la gente pueda participar sin instalar nada. Cualquiera con un enlace o un código QR puede votar en una encuesta o marcar una checklist desde una página pública, y solo el creador edita la lista.
 
-### Requisitos
+Dibujé cada pantalla antes de escribir código, y después construí la app con Expo, la API en Laravel y el despliegue yo mismo.
 
-- Feedback directo. Prefiero que me digan "esto no funciona" el primer día a descubrirlo en producción.
-- Contexto por escrito. Unas issues claras y documentación corta me hacen más rápido que cualquier reunión.
+[Google Play](https://play.google.com/store/apps/details?id=es.thryss.app) · [App Store](LINK) · [thryss.es](https://thryss.es)
 
-### Funciona bien con
+## En el trabajo
 
-- Equipos con responsabilidad compartida
-- Tickets que explican el porqué y no solo el qué
+Líder de un equipo de hasta 4 desarrolladores en una empresa de producto pequeña. Decidimos la tecnología y cómo se construye cada funcionalidad, y yo me encargo de los despliegues a producción. Casi todo es código privado de clientes, por eso no aparece aquí.
 
-### Rendimiento degradado con
+## Stack
 
-- Reuniones sin orden del día
-- Ramas que viven tres semanas
+React · React Native · Expo · TypeScript · Laravel · MySQL · Redis · Docker · GitHub Actions
 
-## Uso
+## También en GitHub
 
-Con qué construyo y dónde me siento cómodo.
+[Snake-ML](https://github.com/josesanchis16/snake-ml), un experimento pequeño para entender cómo funciona el machine learning por dentro.
 
-| Área | Herramientas |
-| --- | --- |
-| Frontend | React, React Native, Expo, TypeScript |
-| Backend | Laravel, PHP, MySQL, Redis, APIs REST |
-| Operaciones | Docker, GitHub Actions, CI/CD, Azure Storage |
+## Contacto
 
-Diseño las pantallas y los flujos antes de construirlos, y no me importa llegar hasta la API y la publicación en las tiendas cuando un proyecto lo necesita.
+[LinkedIn](https://linkedin.com/in/josesanchis16) · sanchisbeldajose@gmail.com

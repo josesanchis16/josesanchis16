@@ -5,8 +5,6 @@ Desarrollador full-stack en Valencia, centrando mi trabajo en frontend y UX.
 
 [Read in English](README.md)
 
-![Capturas de Thryss](thryss.png)
-
 ## Thryss
 
 Una app móvil de listas, checklists y encuestas que he diseñado, construido y publicado por mi cuenta.
@@ -15,7 +13,7 @@ La idea es que la gente pueda participar sin instalar nada. Cualquiera con un en
 
 Dibujé cada pantalla antes de escribir código, y después construí la app con Expo, la API en Laravel y el despliegue yo mismo.
 
-[Google Play](https://play.google.com/store/apps/details?id=es.thryss.app) · [App Store](LINK) · [thryss.es](https://thryss.es)
+[Google Play](https://play.google.com/store/apps/details?id=es.thryss.app) · [App Store](https://apps.apple.com/us/app/thryss/id6815389046) · [Thryss](https://thryss.es)
 
 ## En el trabajo
 
